@@ -25,6 +25,7 @@
 - Google Colab
 
 ## 폴더 구성
+```text
 financial_practice/
 │── notebooks/        # Colab 및 Jupyter Notebook
 │── data/             # 금융 데이터
